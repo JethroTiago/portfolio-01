@@ -7,7 +7,7 @@ Portfolio dev criado com <strong>REACT</strong> e <strong>SASS</strong> através
 
 ### Visualização do Projeto
 
--- soon --
+![React](https://user-images.githubusercontent.com/103612874/205158438-d7891557-d17a-46ea-94ad-01dcc699edc3.png)
 
 ## Como Funciona
 
@@ -21,7 +21,8 @@ Um portfólio responsivo que mostra as ferramentas de trabalho de um desenvolved
 
 ## Aprendizados:
 
-Melhor entendimento sobre Componentes React e reforço nos conhecimentos do Sass
+Melhor entendimento sobre Componentes React e reforço nos conhecimentos do Sass;
+Manipulação de props e gerenciamento de states
 
 ## Agradecimentos
 
