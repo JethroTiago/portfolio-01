@@ -9,7 +9,7 @@ const Sidebar = () => {
     <img src={Avatar} alt="Jethro Tiago"/>
     <p className="title">Desenvolvedor Front-End</p>
     <SocialNetwork/>
-    <p>Informações de contato</p>
+    <Information/>
     <a href="" className="btn">
       Download Currículo
     </a>
