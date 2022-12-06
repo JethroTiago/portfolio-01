@@ -1,4 +1,5 @@
 @use '../variables'
+@use '../mixins'
     
 #main-content
     background-color: variables.$bg-color
@@ -19,9 +20,13 @@
         gap: 1rem
 
         &:after
-            content: ""
-            background-color: variables.$gradient
-            height: 3px
-            width: 30%
-            
-            
+            @include mixins.gradient-border
+    
+    p
+        color: variables.$text-color-secundary
+        margin-bottom: 1rem
+        line-height: 1.4rem
+
+    .btn
+        @include mixins.btn
+        align-self: start
