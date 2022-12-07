@@ -3,7 +3,7 @@ Portfolio dev criado com <strong>REACT</strong> e <strong>SASS</strong> através
 
 ### Deploy
 
--- soon --
+http://portfolio-eta-sand.vercel.app/
 
 ### Visualização do Projeto
 
