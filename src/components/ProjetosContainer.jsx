@@ -4,13 +4,10 @@ const ProjetosContainer = () => {
   return (
   <section className="project-container">
     <h2>Projetos</h2>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas veritatis 
-      deleniti debitis fuga hic voluptates totam laudantium quam, voluptatibus 
-      numquam temporibus eos, voluptatem nam repellendus doloremque ea magnam itaque
-      accusamus!
+    <p>Possuo diversos projetos utilizando diversas linguagens e técnicas. Procuro sempre deixar meu portfolio diversificado e atualizado.
     </p>
-    <a href="#" className="btn">
-      Ver Projetos
+    <a href="https://github.com/jethrotiago" className="btn">
+      Conheça meus Projetos
     </a>
   </section>
   );
