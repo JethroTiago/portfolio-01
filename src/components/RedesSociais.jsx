@@ -1,17 +1,17 @@
 import {FaLinkedinIn, FaGithub, FaInstagram} from "react-icons/fa";
 
-import "../styles/components/socialnetworks.sass";
+import "../styles/components/redessociais.sass";
 
-const socialnetworks = [
+const redessociais = [
   { name: "linkedin", icon: <FaLinkedinIn /> },
   { name: "github", icon: <FaGithub /> },
   { name: "instagram", icon: <FaInstagram /> },
 ];
 
-const SocialNetwork = () => {
+const RedesSociais = () => {
   return (
-    <section id="social-networks">
-      {socialnetworks.map((network) => (
+    <section id="redes-sociais">
+      {redessociais.map((network) => (
         <a href='#' className='social-btn' id={network.name} key={network.name}>
           {network.icon}
         </a>
@@ -20,4 +20,4 @@ const SocialNetwork = () => {
   );
 };
 
-export default SocialNetwork;
+export default RedesSociais;

@@ -1,5 +1,5 @@
-const AboutContainer = () => {
-  return <section className="about-container">
+const SobreContainer = () => {
+  return <section className="sobre-container">
     <h2>Sobre</h2>
     <p>
     Sou um desenvolvedor de Front-End, com destaque na criação de páginas web responsivas e aplicações web, buscando somar a experiência de 14 anos como profissional de enfermagem (e ator teatral) com os diversos conhecimentos tecnológicos.
@@ -15,4 +15,4 @@ const AboutContainer = () => {
     </p>
   </section>
 };
-export default AboutContainer;
+export default SobreContainer;

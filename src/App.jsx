@@ -1,4 +1,4 @@
-import MainContent from "./components/MainContent";
+import ConteudoPrincipal from "./components/ConteudoPrincipal";
 import Sidebar from "./components/Sidebar";
 
 import "./styles/components/app.sass";
@@ -8,7 +8,7 @@ function App() {
     <div id="portfolio">
       <h1>Jethro Tiago</h1>
       <Sidebar />
-      <MainContent />
+      <ConteudoPrincipal />
     </div>
   );
 }
