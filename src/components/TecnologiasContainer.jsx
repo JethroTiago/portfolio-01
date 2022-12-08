@@ -27,7 +27,7 @@ const TecnologiasContainer = () => {
           {tech.icon}
           <div className="tecnologia-info">
             <h3>{tech.name}</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Esta é uma das tecnologias que mais gosto de usar!</p>
 
           </div>
         </div>
